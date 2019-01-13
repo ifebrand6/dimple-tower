@@ -4,7 +4,7 @@
 Project:	    Myhouse
 Version:        1.0.1
 
-Default Color   #00f;
+Default Color   #cd912a;
 
 Body copy:		'Roboto', sans-serif; 14px;
 Headers:		'Roboto', sans-serif;
@@ -261,7 +261,7 @@ B. Helpers
 }
 
 .ts-font-color__primary {
-    color: #00f;
+    color: #cd912a;
 }
 
 .ts-bg-light {
@@ -269,7 +269,7 @@ B. Helpers
 }
 
 .ts-bg-primary {
-    background-color: #00f;
+    background-color: #cd912a;
 }
 
 .ts-bg-black {
@@ -285,7 +285,7 @@ B. Helpers
 }
 
 .ts-text-color-primary {
-    color: #00f;
+    color: #cd912a;
 }
 
 .ts-text-color-black {
@@ -446,7 +446,7 @@ header {
 }
 
 .file-upload span i {
-    color: #00f;
+    color: #cd912a;
     margin-right: 1rem;
 }
 
@@ -819,7 +819,7 @@ a {
 }
 
 a:hover {
-    color: #00f;
+    color: #cd912a;
     text-decoration: none;
 }
 
@@ -1271,14 +1271,14 @@ button {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background-color: #00f;
-    border-color: #00f;
+    background-color: #cd912a;
+    border-color: #cd912a;
     box-shadow: .125rem .1875rem .9375rem rgba(0, 0, 0, .3);
 }
 
 .btn-primary {
-    background-color: #00f;
-    border-color: #00f;
+    background-color: #cd912a;
+    border-color: #cd912a;
     color: #fff;
 }
 
@@ -1309,18 +1309,18 @@ button {
 }
 
 .btn-outline-primary {
-    border-color: #00f;
-    color: #00f;
+    border-color: #cd912a;
+    color: #cd912a;
 }
 
 .btn-outline-primary:hover {
-    background-color: #00f;
-    border-color: #00f;
+    background-color: #cd912a;
+    border-color: #cd912a;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus {
-    background-color: #00f;
-    border-color: #00f;
+    background-color: #cd912a;
+    border-color: #cd912a;
     box-shadow: 0 0 0 .2rem rgba(0, 0, 255, .5);
 }
 
@@ -1350,11 +1350,11 @@ button {
 }
 
 .btn-link {
-    color: #00f;
+    color: #cd912a;
 }
 
 .btn-link:hover {
-    color: #00f;
+    color: #cd912a;
 }
 
 /* -- Breadcrumb */
@@ -1464,7 +1464,7 @@ button {
 }
 
 .ts-card .card-footer .ts-btn-arrow:after {
-    color: #00f;
+    color: #cd912a;
 }
 
 .ts-card .ts-item__info-badge {
@@ -1724,7 +1724,7 @@ button {
 }
 
 .ts-feature .ts-feature__icon .ts-circle {
-    background-color: #00f;
+    background-color: #cd912a;
     bottom: 0;
     color: #fff;
     left: 0;
@@ -1806,7 +1806,7 @@ form.ts-labels-inside-input .form-group label.focused,
 
 form .ts-form-advanced-search, .ts-form .ts-form-advanced-search {
     box-shadow: 0 .1875rem .9375rem rgba(0, 0, 0, .15);
-    background-color: #00f;
+    background-color: #cd912a;
     bottom: 0;
     color: #fff;
     left: 1rem;
@@ -1926,8 +1926,8 @@ label:not(.custom-control-label) {
 }
 
 .custom-checkbox .custom-control-input:checked ~ .custom-control-label:before {
-    background-color: #00f;
-    border-color: #00f;
+    background-color: #cd912a;
+    border-color: #cd912a;
     box-shadow: 0 .125rem .3125rem rgba(0, 0, 0, .1);
 }
 
@@ -2370,7 +2370,7 @@ select [value=""] {
 }
 
 .ts-compare-items-table .ts-available:after {
-    color: #00f;
+    color: #cd912a;
     content: "\f00c";
 }
 
@@ -2458,7 +2458,7 @@ ul.ts-list-colored-bullets {
 ul.ts-list-colored-bullets li:before {
     text-shadow: 0 0 .5rem rgba(0, 0, 255, .8);
     content: "•";
-    color: #00f;
+    color: #cd912a;
     vertical-align: middle;
     font-size: 1.75rem;
     padding-right: .75rem;
@@ -2495,7 +2495,7 @@ ul.ts-list-check-marks .ts-checked {
 }
 
 ul.ts-list-check-marks .ts-checked:before {
-    color: #00f;
+    color: #cd912a;
     content: "\f00c";
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
@@ -2544,7 +2544,7 @@ ul.ts-list-icons i {
 }
 
 .ts-map .cluster > div, .ts-map .marker-cluster > div {
-    background-color: #00f;
+    background-color: #cd912a;
     box-shadow: inset 0 0 0 .375rem rgba(255, 255, 255, .3),
                 0 .1875rem .9375rem rgba(0, 0, 0, .15);
     border-radius: 50%;
@@ -2692,7 +2692,7 @@ ul.ts-list-icons i {
 }
 
 .ts-marker .ts-marker__info {
-    background-color: #00f;
+    background-color: #cd912a;
     color: #fff;
     top: 1.25rem;
     z-index: 1;
@@ -2706,7 +2706,7 @@ ul.ts-list-icons i {
 }
 
 .ts-marker .ts-marker__feature > * {
-    background-color: #00f;
+    background-color: #cd912a;
     box-shadow: 0 .125rem .3125rem rgba(0, 0, 0, .1);
     border-radius: 50%;
     color: #fff;
@@ -2888,7 +2888,7 @@ ul.ts-list-icons i {
 
 .ts-infobox .ts-item__info-badge {
     display: inline-block;
-    background-color: #00f;
+    background-color: #cd912a;
     box-shadow: 0 .125rem .3125rem rgba(0, 0, 0, .1);
     border-radius: .1875rem;
     font-weight: 500;
@@ -3507,7 +3507,7 @@ body.ts-full-screen-page {
 }
 
 .page-item.active .page-link {
-    background-color: #00f;
+    background-color: #cd912a;
     box-shadow: 0 .125rem .3125rem rgba(0, 0, 0, .1);
 }
 
@@ -4003,7 +4003,7 @@ body.ts-full-screen-page {
 /* -- Ribbon */
 
 .ts-ribbon {
-    border: 1rem solid #00f;
+    border: 1rem solid #cd912a;
     border-top: 0 solid;
     border-bottom: 1rem solid rgba(0, 0, 0, 0);
     color: #fff;
@@ -4052,7 +4052,7 @@ body.ts-full-screen-page {
 }
 
 .ts-ribbon-corner span {
-    background-color: #00f;
+    background-color: #cd912a;
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
     color: #fff;
@@ -4143,7 +4143,7 @@ body.ts-full-screen-page {
 .nav-tabs .nav-link.active {
     color: #191919;
     background-color: transparent;
-    border-bottom: .1875rem solid #00f;
+    border-bottom: .1875rem solid #cd912a;
     opacity: 1;
 }
 
